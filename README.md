@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoSanHan
+- 👋 Hi, I’m @BudiKusumaHandoko
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data analyst
 - 💞️ I’m looking to collaborate on SQL and R
