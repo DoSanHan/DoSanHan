@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BudiKusumaHandoko
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data analyst
-- 💞️ I’m looking to collaborate on SQL and R
-- 📫 How to reach me ...
+- 🌱 Nice to meet you
 
 <!---
 DoSanHan/DoSanHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
